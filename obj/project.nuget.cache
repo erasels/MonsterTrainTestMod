@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYb3GOyUMBFuwoDrC/uJzeKo6q7sH/USzqrkk/LHUav9OTFJa/Mymq3sVa+WvH5AjYmDzbbnJj+qudR9Jw2uPg==",
+  "success": true,
+  "projectFilePath": "K:\\Steam\\steamapps\\common\\Monster Train\\MonsterTrainModding\\MonsterTrainTestMod\\MutatorProgressMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emanuel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Emanuel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

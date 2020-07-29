@@ -1,0 +1,9 @@
+K:\Steam\steamapps\common\Monster Train\BepInEx\plugins\netstandard2.0\MutatorProgressMod.deps.json
+K:\Steam\steamapps\common\Monster Train\BepInEx\plugins\netstandard2.0\MutatorProgressMod.dll
+K:\Steam\steamapps\common\Monster Train\BepInEx\plugins\netstandard2.0\MutatorProgressMod.pdb
+K:\Steam\steamapps\common\Monster Train\MonsterTrainModding\MonsterTrainTestMod\obj\Debug\netstandard2.0\MutatorProgressMod.csprojAssemblyReference.cache
+K:\Steam\steamapps\common\Monster Train\MonsterTrainModding\MonsterTrainTestMod\obj\Debug\netstandard2.0\MutatorProgressMod.AssemblyInfoInputs.cache
+K:\Steam\steamapps\common\Monster Train\MonsterTrainModding\MonsterTrainTestMod\obj\Debug\netstandard2.0\MutatorProgressMod.AssemblyInfo.cs
+K:\Steam\steamapps\common\Monster Train\MonsterTrainModding\MonsterTrainTestMod\obj\Debug\netstandard2.0\MutatorProgressMod.csproj.CoreCompileInputs.cache
+K:\Steam\steamapps\common\Monster Train\MonsterTrainModding\MonsterTrainTestMod\obj\Debug\netstandard2.0\MutatorProgressMod.dll
+K:\Steam\steamapps\common\Monster Train\MonsterTrainModding\MonsterTrainTestMod\obj\Debug\netstandard2.0\MutatorProgressMod.pdb
